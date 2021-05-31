@@ -11,7 +11,7 @@
 8. [Rewrite History](#8-rewrite-history)
 9. [Ignoring Patterns](#9-ignoring-patterns)
 10. [Temporal Commits](#10-temporary-commits)
-11. [Miscellaneous](#Misc)
+11. [Miscellaneous Links](#Misc)
 
 ## 1. Set-up [Do it only once]
 ### Configure user info and across local repo
@@ -238,5 +238,5 @@ git stash drop
 
 [Remote vs Local Repo](https://stackoverflow.com/questions/13072111/gits-local-repository-and-remote-repository-confusing-concepts)
 
-[git fetch vs git pull](https://www.freecodecamp.org/news/git-fetch-vs-pull/#:~:text=git%20fetch%20is%20the%20command,changes%20from%20the%20remote%20repository.)
+[Git fetch vs Git pull](https://www.freecodecamp.org/news/git-fetch-vs-pull/#:~:text=git%20fetch%20is%20the%20command,changes%20from%20the%20remote%20repository.)
 
