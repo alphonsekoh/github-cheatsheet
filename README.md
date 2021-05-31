@@ -72,3 +72,24 @@ git commit -m "[commit message]"
 ```
 git branch
 ```
+
+####  create a new branch at current commit
+```
+git branch [branch-name]
+```
+
+#### switch to another branch and check into own working directory
+```
+git checkout
+```
+
+#### merge the specified branch history into the current one
+```
+git merge [branch]
+```
+
+#### show all commits in the current branch history
+```
+git log
+```
+
