@@ -139,5 +139,33 @@ git fetch [alias]
 git merge [alias]/[branch]
 ```
 
+#### Transmit local branch commit to remote repo branch
+```
+git push [alias] [branch]
+```
+
+#### fetch and merge commits from remote branch
+```
+git pull
+```
+
+## 7. Tracking Path Changes
+### Versioning file removes and path changes
+
+#### delete the file from project and stage the removal for commit
+```
+git rm [file]
+```
+
+#### change an existing file path and stage the move
+```
+git mv [existing path] [new path]
+```
+
+#### show all commit logs with indication of any path moved
+```
+git log --stat -M
+```
+
 
 
