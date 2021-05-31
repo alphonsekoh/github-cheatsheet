@@ -167,5 +167,18 @@ git mv [existing path] [new path]
 git log --stat -M
 ```
 
+## 8. Rewrite history
+### Rewriting branches, updating commits and clearing history
+
+#### apply any commits of current branch ahead of specified one
+```
+git rebase [branch]
+```
+
+#### clear staging area, rewrite working tree from specified commit
+```
+git reset --hard [commit]
+```
+
 
 
