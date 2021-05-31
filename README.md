@@ -93,3 +93,31 @@ git merge [branch]
 git log
 ```
 
+## 5. Inspection and Comparison 
+### Examining logs, diff and object info
+
+#### show commit history for current active branch
+```
+git log
+```
+
+#### show commit on branch A that are not on branch B
+```
+git log branchB..branchA
+```
+
+#### show the commits on that file, even renames
+```
+git log --follow [file]
+```
+
+#### show the diff of what is in branch A that is not in branch B
+```
+git diff branchB...branchA
+```
+
+#### show any objects in Git in human-readable format
+```
+git show [SHA]
+```
+
