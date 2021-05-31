@@ -1,5 +1,17 @@
 # github-cheatsheet
 
+## Contents
+1. [Setting Up](#1-set-up-do-it-only-once)
+2. [Initialisation & Cloning](#2-set-up-and-init)
+3. [Staging & Snapshot](#3-staging-and-snapshot)
+4. [Branching & Merging](#4-branch-and-merge)
+5. [Inspection & Comparison](#5-inspection-and-comparison)
+6. [Sharing & Updates](#6-share-and-update)
+7. [Tracking Path Changes](#7-tracking-path-changes)
+8. [Rewrite History](#8-rewrite-history)
+9. [Ignoring Patterns](#9-ignoring-patterns)
+10. [Temporal Commits](#10-temporary-commits)
+
 ## 1. Set-up [Do it only once]
 ### Configure user info and across local repo
 
