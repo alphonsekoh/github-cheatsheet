@@ -225,7 +225,7 @@ git stash list
 git stash pop
 ```
 
-#### discoard the changes from top of stash stack
+#### discard the changes from top of stash stack
 ```
 git stash drop
 ```
