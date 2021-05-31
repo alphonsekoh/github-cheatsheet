@@ -11,6 +11,7 @@
 8. [Rewrite History](#8-rewrite-history)
 9. [Ignoring Patterns](#9-ignoring-patterns)
 10. [Temporal Commits](#10-temporary-commits)
+11. [Miscellaneous](#Misc)
 
 ## 1. Set-up [Do it only once]
 ### Configure user info and across local repo
@@ -229,4 +230,13 @@ git stash pop
 ```
 git stash drop
 ```
+
+## Misc
+### Miscellaneous links that might be useful when setting up a project
+
+[Markdown Format](https://guides.github.com/features/mastering-markdown/)
+
+[Remote vs Local Repo](https://stackoverflow.com/questions/13072111/gits-local-repository-and-remote-repository-confusing-concepts)
+
+[git fetch vs git pull](https://www.freecodecamp.org/news/git-fetch-vs-pull/#:~:text=git%20fetch%20is%20the%20command,changes%20from%20the%20remote%20repository.)
 
