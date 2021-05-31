@@ -180,5 +180,19 @@ git rebase [branch]
 git reset --hard [commit]
 ```
 
+## 9. Ignoring Patterns
+### Preventing unintentional staging or commiting of files
+
+#### Save file with desired patterns as .gitignore with either direct sting matches or wildcard
+```
+logs/
+*.notes
+pattern*/
+```
+
+#### system wide ignore pattern for all local repo
+```
+git config --global core.excludesfile [file]
+```
 
 
