@@ -195,4 +195,26 @@ pattern*/
 git config --global core.excludesfile [file]
 ```
 
+## 10. Temporary Commits 
+### Temporarily store modified tracked files in order to change branches
+
+#### save modified and staged changes
+```
+git stash
+```
+
+#### list stash order of stash file changes
+```
+git stash list
+```
+
+#### write working from top of stash stack
+```
+git stash pop
+```
+
+#### discoard the changes from top of stash stack
+```
+git stash drop
+```
 
