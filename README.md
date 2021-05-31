@@ -121,3 +121,23 @@ git diff branchB...branchA
 git show [SHA]
 ```
 
+## 6. Share and update 
+### Retrieving updates from another repo and update local repo
+
+#### add a git url as an alias
+```
+git remote add [alias] [url]
+```
+
+#### fetch down all the branches from the git remote
+```
+git fetch [alias]
+```
+
+#### merge a remote branch into current branch to bring it up to date
+```
+git merge [alias]/[branch]
+```
+
+
+
