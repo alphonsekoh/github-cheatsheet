@@ -240,3 +240,11 @@ git stash drop
 
 [Git fetch vs Git pull](https://www.freecodecamp.org/news/git-fetch-vs-pull/#:~:text=git%20fetch%20is%20the%20command,changes%20from%20the%20remote%20repository.)
 
+[.Gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
+
+[Temporal Commits](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
+
+[Temporal Commits (Youtube)](https://www.youtube.com/watch?v=KLEDKgMmbBI)
+
+
+
